@@ -1,0 +1,14 @@
+---
+description: Project development conventions
+alwaysApply: true
+---
+
+# Project Conventions
+
+- Keep code clean, readable, and maintainable.
+- Prefer simple solutions over unnecessary complexity.
+- Preserve existing functionality when modifying code.
+- Do not modify unrelated files.
+- Explain important changes briefly after completing a task.
+- Test changes when practical.
+- Keep documentation updated when project behavior changes.
