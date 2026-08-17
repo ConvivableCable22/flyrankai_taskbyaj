@@ -12,3 +12,5 @@ alwaysApply: true
 - Explain important changes briefly after completing a task.
 - Test changes when practical.
 - Keep documentation updated when project behavior changes.
+
+- Follow Conventional Commits for Git commit messages.
